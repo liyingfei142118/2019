@@ -1,0 +1,17 @@
+F:\C#\交换机模拟\交换机模拟\bin\Release\交换机模拟.exe
+F:\C#\交换机模拟\交换机模拟\bin\Release\交换机模拟.pdb
+F:\C#\交换机模拟\交换机模拟\obj\Release\交换机模拟.Form1.resources
+F:\C#\交换机模拟\交换机模拟\obj\Release\交换机模拟.Properties.Resources.resources
+F:\C#\交换机模拟\交换机模拟\obj\Release\交换机模拟.csproj.GenerateResource.cache
+F:\C#\交换机模拟\交换机模拟\obj\Release\交换机模拟.csproj.CoreCompileInputs.cache
+F:\C#\交换机模拟\交换机模拟\obj\Release\交换机模拟.exe
+F:\C#\交换机模拟\交换机模拟\obj\Release\交换机模拟.pdb
+F:\C#\交换机模拟\交换机模拟\obj\Release\交换机模拟.csprojResolveAssemblyReference.cache
+C:\Users\CSLab\Desktop\交换机模拟\交换机模拟\obj\Release\交换机模拟.exe
+C:\Users\CSLab\Desktop\交换机模拟\交换机模拟\obj\Release\交换机模拟.pdb
+C:\Users\CSLab\Desktop\交换机模拟\交换机模拟\obj\Release\交换机模拟.Form1.resources
+C:\Users\CSLab\Desktop\交换机模拟\交换机模拟\obj\Release\交换机模拟.Properties.Resources.resources
+C:\Users\CSLab\Desktop\交换机模拟\交换机模拟\obj\Release\交换机模拟.csproj.GenerateResource.Cache
+C:\Users\CSLab\Desktop\交换机模拟\交换机模拟\bin\Release\交换机模拟.exe
+C:\Users\CSLab\Desktop\交换机模拟\交换机模拟\bin\Release\交换机模拟.pdb
+C:\Users\CSLab\Desktop\交换机模拟\交换机模拟\obj\Release\交换机模拟.csproj.CoreCompileInputs.cache
